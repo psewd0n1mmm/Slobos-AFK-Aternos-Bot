@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pavlostef-vVhd.aternos.me",
-    "port": 26154,
-    "version": "1.21.11",
+    "ip": "prosionaly.aternos.me",
+    "port": 17947,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
